@@ -7,9 +7,9 @@ Ao longo deste trabalho será criada a ferramenta de transcrição automática d
 ---
 
 ## MILESTONES DO PROJETO
-1. Extração automática de linhas:
+### 1. Extração automática de linhas:
 
-&emsp;1.1 Identificar e extrair automaticamente linhas de palavras de um documento.
+#### 1.1 Identificar e extrair automaticamente linhas de palavras de um documento.
 
 2. Extração automática de palavras:
 
