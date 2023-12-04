@@ -8,7 +8,7 @@ MILESTONES DO PROJETO
 1. Extração automática de linhas:
   1.1 Identificar e extrair automaticamente linhas de palavras de um documento.
 2. Extração automática de palavras:
-  2.1 Identificar e extrair automaticamente palavras a partir das linhas extraídas na última milestone.
+  &emsp;2.1 Identificar e extrair automaticamente palavras a partir das linhas extraídas na última milestone.
 3. Extração automática de letras:
   3.1 Identificar e extrair automaticamente letras a partir das palavras obtidas na última milestone.
 4. Reconhecer a letra:
